@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/54496175/185103447-99b047b0-72dd-4ce1-
   1. The pixel intensities of an object do not change between consecutive frames.
   2. Neighbouring pixels have similar motion.
 
-- The goal is to calculate dense optical flow for a video  using Gunnar Farneback algorithm
+- The goal is to calculate dense optical flow for a video  using Gunnar Farneback algorithm.
 
 
 
